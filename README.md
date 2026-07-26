@@ -127,4 +127,5 @@ https://github.com/user-attachments/assets/359d0a98-d6ad-48e8-8cc5-b1995a83444e
 
 ## Author
 
-Developed by **Amal yasser a Computer and Network Engineering st**
+Developed by **Amal yasser Computer and Network Engineering Student  
+University of Jeddah**
