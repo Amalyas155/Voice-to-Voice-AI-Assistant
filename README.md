@@ -107,13 +107,6 @@ Gradio provides:
 3. Run:
 
 
-https://github.com/user-attachments/assets/7e482c4a-4f36-4433-803f-d493f55f9c51
-
-
-
-
-
-
 ```bash
 python app.py
 ```
@@ -127,6 +120,7 @@ python app.py
 ## Project Demo
 
 🎥 A demonstration video is included in this repository showing the complete workflow of the application.
+
 https://github.com/user-attachments/assets/359d0a98-d6ad-48e8-8cc5-b1995a83444e
 
 ---
